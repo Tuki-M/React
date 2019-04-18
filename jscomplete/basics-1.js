@@ -1,4 +1,4 @@
-// To see the result of the code below, click on : https://jscomplete.com/playground/s258052
+// Live demo : https://jscomplete.com/playground/s258052
 
 function Button(props) {
   const handleClick = () => props.onClickFunction(props.increment);
